@@ -1,0 +1,5 @@
+Avatar,JamesCameron,2023,7.5
+Batman,James,2012,8.9
+NoMercy,Korean,2017,7.9
+Aquaman,Antor,2020,7.6
+LifeisBeautiful,Unknown,1990,9.0
